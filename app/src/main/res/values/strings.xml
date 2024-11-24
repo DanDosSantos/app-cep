@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cep</string>
+    <string name="cep">CEP</string>
+    <string name="buscar_cep">Buscar CEP</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="erro_cep">Mensagem de erro do CEP</string>
+    <string name="nao_encontrado">Mensagem não encontrada</string>
+    <string name="erro_busca">Mensagem não encontrada</string>
+</resources>
